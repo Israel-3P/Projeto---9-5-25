@@ -1,0 +1,44 @@
+*{
+margin: 0;
+padding: 0;
+}
+
+body 
+{
+background-color: #556b2f;
+color: #ffd700;
+height: 100vh;
+box-sizing: border-box;
+}
+
+.apresentacao 
+{
+margin: 10% 15%;    
+display: flex;    
+align-items: center;
+justify-content: space-between;
+}
+
+.apresentacao__conteudo__titulo__destaque 
+{
+color: ;
+}
+
+.apresentcao__conteudo 
+{
+width: 15px;
+display: flex;
+flex-direction: column;
+gap: 40px;
+}
+
+.apresentaçao_conteudo__conteudo__titulo 
+{
+font-size: 32px;
+}
+
+.apresentacao_conteudo__texto 
+{
+font-size: 24px;    
+}
+
